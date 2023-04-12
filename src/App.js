@@ -1,5 +1,6 @@
+import React, { useEffect, useState } from 'react';
 import './App.css';
-import Countries from './components/Countries/Countries';
+import Countries from './Components/Countries/Countries';
 
 function App() {
   return (
